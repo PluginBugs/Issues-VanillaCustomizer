@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Forum
+    url: https://forum.devs.beer/
+    about: Official community forum
+  - name: Discord server
+    url: https://discord.gg/sMAE3Na
+    about: My personal Discord server
+  - name: VanillaCustomizer wiki
+    url: http://a.devs.beer/git-wiki-issue-vc
+    about: Official wiki of VanillaCustomizer
+  - name: VanillaCustomizer Spigot page
+    url: http://a.devs.beer/git-market-issue-vc
+    about: Official product page of VanillaCustomizer
