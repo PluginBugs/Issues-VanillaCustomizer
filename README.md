@@ -4,7 +4,7 @@ Repository used to keep track of issues of my plugin VanillaCustomizer
 # Plugin development progress information 
 
 Here you can see the progress made on the current scheduled bug fixes and feature requests.
-## [Check here to view the current state of the project](https://a.devs.beer/git-project-ia)
+## [Check here to view the current state of the project](https://a.devs.beer/git-project-vc)
 
 # Useful links for various tickets categories
 
