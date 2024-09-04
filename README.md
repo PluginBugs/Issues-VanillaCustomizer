@@ -1,6 +1,8 @@
 # Issues-VanillaCustomizer
 Repository used to keep track of issues of my plugin VanillaCustomizer
 
+## Source code [here](https://github.com/JavaPlugins/VanillaCustomizer)
+
 # Plugin development progress information 
 
 Here you can see the progress made on the current scheduled bug fixes and feature requests.
